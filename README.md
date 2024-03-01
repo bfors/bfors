@@ -1,6 +1,6 @@
-### Hello
+### Welcome
 
-![clippy network](clippynetwork.png)
+I'm currently working on learning rust through implementing simple storage engines.
 
 <!--
 **bfors/bfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
