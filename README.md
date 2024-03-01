@@ -1,6 +1,6 @@
 ### Welcome
 
-I'm currently working on learning rust through implementing simple storage engines.
+I'm currently working on learning rust and low level data management through implementing simple storage engines.
 
 <!--
 **bfors/bfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
