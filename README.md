@@ -4,6 +4,8 @@ I'm currently working on learning rust and low level data management through imp
 
 <details>
 <summary>Log-structured key-value store</summary>
+https://github.com/bfors/lskv/
+
 Based on bitcask, designed for high throughput and crash resilience
   
 ![lskv](https://github.com/bfors/lskv/blob/main/diagram.svg)
