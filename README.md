@@ -2,11 +2,12 @@
 
 I'm currently working on learning rust and low level data management through implementing simple storage engines.
 
-
-## Log-structured key-value store
+<details>
+<summary>Log-structured key-value store</summary>
 Based on bitcask, designed for high throughput and crash resilience
+  
 ![lskv](./lskv.svg)
-
+</details>
 
 <!--
 **bfors/bfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
