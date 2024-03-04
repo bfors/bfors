@@ -6,7 +6,9 @@ I'm currently working on learning rust and low level data management through imp
 <summary>Log-structured key-value store</summary>
 https://github.com/bfors/lskv/
 
-Based on bitcask, designed for high throughput and crash resilience
+Based on bitcask, designed for high throughput and crash resilience.
+
+All commands are written to a log file in the order they are received, and an in-memory index maps keys to the corresponding file locations where the values are found. Log files are append only, and periodically get compacted to drop stale data.
   
 ![lskv](https://github.com/bfors/lskv/blob/main/diagram.svg)
 </details>
