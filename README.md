@@ -13,6 +13,23 @@ All commands are written to a log file in the order they are received, and an in
 ![lskv](https://github.com/bfors/lskv/blob/main/diagram.svg)
 </details>
 
+<details>
+<summary>Log-structured merge tree</summary>
+https://github.com/bfors/lsmt/
+
+TODO
+
+</details>
+
+<details>
+<summary>Hash ring</summary>
+
+Implementation of consistent hashing
+
+todo
+
+</details>
+
 <!--
 **bfors/bfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
