@@ -8,7 +8,9 @@ https://github.com/bfors/lskv/
 
 Based on bitcask, designed for high throughput and crash resilience.
 
-All commands are written to a log file in the order they are received, and an in-memory index maps keys to the corresponding file locations where the values are found. Log files are append only, and periodically get compacted to drop stale data.
+- All commands are written to a log file in the order they are received
+- An in-memory index maps keys to the corresponding file locations where the values are found
+- Log files are append only, and periodically get compacted to drop stale data
   
 ![lskv](https://github.com/bfors/lskv/blob/main/diagram.svg)
 </details>
@@ -22,7 +24,7 @@ TODO
 </details>
 
 <details>
-<summary>Hash ring</summary>
+<summary>Consistent hashing</summary>
 
 Implementation of consistent hashing
 
