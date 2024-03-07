@@ -14,7 +14,7 @@ Based on bitcask, designed for high throughput and crash resilience.
   
 ![lskv](https://github.com/bfors/lskv/blob/main/diagram.svg)
 </details>
-
+<!--
 <details>
 <summary>Log-structured merge tree</summary>
 https://github.com/bfors/lsmt/
@@ -32,7 +32,7 @@ todo
 
 </details>
 
-<!--
+
 **bfors/bfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
